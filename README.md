@@ -1,2 +1,2 @@
-# nbconvert_example
-example notebook to demonstrate command line execution with nbconvert
+# `nbconvert` example
+Example notebook to demonstrate command line execution with nbconvert.
